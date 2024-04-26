@@ -2,4 +2,5 @@
 
 Not much to see here.
 
-[GitHub Profile](https://github.com/shassard)
+- [GitHub](https://github.com/shassard)
+- [Mastodon](https://emacs.ch/@shassard")
